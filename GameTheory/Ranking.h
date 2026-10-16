@@ -4,9 +4,10 @@
 
 struct Ranking
 {
+	Ranking(const std::string& name) : StrategyName(name) {}
 	std::string StrategyName;
-	int TotalPoint; 
-	int Win;
-	int Draw;
-	int Lose;
+	int TotalPoint = 0; 
+	int Win = 0;
+	int Draw = 0;
+	int Lose = 0;
 };

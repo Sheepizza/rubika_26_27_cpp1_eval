@@ -1,0 +1,4 @@
+﻿  Islands.cpp
+C:\Users\s.lucq\Documents\GitHub\rubika_26_27_cpp1_eval\Islands\Islands.cpp(94,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\s.lucq\Documents\GitHub\rubika_26_27_cpp1_eval\Islands\Islands.cpp(94,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Islands.vcxproj -> C:\Users\s.lucq\Documents\GitHub\rubika_26_27_cpp1_eval\Islands\x64\Debug\Islands.exe
